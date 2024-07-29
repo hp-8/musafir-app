@@ -14,8 +14,8 @@ const Camp = () => {
       >
         <CampSite
           backgroudImage="bg-bg-img-1"
-          title="Putuk Truno Camp"
-          subtitle="Prigen, Pasuruan"
+          title="Auli Scenic Camp"
+          subtitle="Auli, Uttrakhand"
           peopleJoined="50+ Joined"
         />
         <CampSite
