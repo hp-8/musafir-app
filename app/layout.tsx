@@ -4,8 +4,8 @@ import NavBar from "@/components/NavBar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Travel",
-  description: "Travel UI/UX App for Camping",
+  title: "Musafir - Your travel partner",
+  description: "Travel UI/UX App for Camping created by HP Creates",
 };
 
 export default function RootLayout({
